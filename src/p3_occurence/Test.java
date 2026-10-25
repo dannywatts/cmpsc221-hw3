@@ -1,4 +1,4 @@
-/* Test.java - Test
+package p3_occurence;/* p3_occurence.Test.java - p3_occurence.Test
  *
  * Sample code for testing CountKeywords */
 
